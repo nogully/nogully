@@ -1,4 +1,4 @@
-### Hi friends 👋 Salut les ami(e)s
+### Hi friends 👋  Salut les ami(e)s
 
 
 - 👩🏻‍💻 I have 4ish years of experience in frontend & fullstack software engineering.
@@ -8,6 +8,7 @@
 - 🤓🚲🚈🎧🎬🔭 Major bike, transit, podcast, film and science nerd. 
 - 👯‍♀️👯‍♀️💃🏻 Pronouns are she/her.
 
+---
 
 - 👩🏻‍💻 J'ai environs 4 ans d'expérience dans l'ingénierie frontend et fullstack.
 - 📊 J'aime bosser sur des projets d'IU et de visualization de données en Typescript, JS, React, Node et Python.
